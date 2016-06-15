@@ -1,0 +1,16 @@
+E:\WorkShops\Notify\Notify\bin\Debug\Notify.exe.config
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.csprojResolveAssemblyReference.cache
+E:\WorkShops\Notify\Notify\obj\Debug\MainWindow.baml
+E:\WorkShops\Notify\Notify\obj\Debug\MainWindow.g.cs
+E:\WorkShops\Notify\Notify\obj\Debug\App.g.cs
+E:\WorkShops\Notify\Notify\obj\Debug\Notify_MarkupCompile.cache
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.g.resources
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.Properties.Resources.resources
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.csproj.GenerateResource.Cache
+E:\WorkShops\Notify\Notify\bin\Debug\Notify.exe
+E:\WorkShops\Notify\Notify\bin\Debug\Notify.pdb
+E:\WorkShops\Notify\Notify\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\WorkShops\Notify\Notify\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\WorkShops\Notify\Notify\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.exe
+E:\WorkShops\Notify\Notify\obj\Debug\Notify.pdb
